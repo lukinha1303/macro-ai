@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Macro AI",
+  "description": "AI-powered nutrition analysis using computer vision to identify foods and estimate macros from photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
