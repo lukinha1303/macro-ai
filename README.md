@@ -1,20 +1,45 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="SEU_BANNER" />
+
+# 🥗 Macro AI
+
+AI-powered nutrition assistant that analyzes meal photos and estimates food quantities and calories using Google's Gemini AI.
+
+🔗 Live Demo: https://macro-ai-gilt.vercel.app/
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/6737ab49-0080-4890-a71b-2b939857d944
+- 📸 Meal photo analysis
+- 🤖 Food recognition with Gemini AI
+- ⚖️ Portion size estimation
+- 🔥 Calorie estimation
+- 📱 Mobile-friendly experience
+- ☁️ Cloud deployment on Vercel
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠️ Technologies
 
+- React
+- TypeScript
+- Vite
+- Gemini API
+- Google AI Studio
+- Vercel
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Run Locally
+
+### Prerequisites
+
+- Node.js
+- Gemini API Key
+
+### Installation
+
+```bash
+npm install
