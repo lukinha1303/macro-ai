@@ -48,3 +48,10 @@ AI-powered nutrition assistant that analyzes meal photos and estimates calories 
 ## 🎓 Academic Project
 
 Developed as part of a Computer Engineering academic project focused on Artificial Intelligence, Computer Vision, and Cloud Deployment.
+
+---
+
+## 👤 Author
+
+**Lucas Alves**  
+Computer Engineering Student
