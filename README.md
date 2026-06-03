@@ -3,7 +3,7 @@
 
 # 🥗 Macro AI
 
-AI-powered nutrition assistant that analyzes meal photos and estimates food quantities and calories using Google's Gemini AI.
+AI-powered nutrition assistant that analyzes meal photos and estimates calories and food quantities using Google's Gemini AI.
 
 🔗 **Live Demo:** https://macro-ai-gilt.vercel.app/
 
@@ -13,7 +13,7 @@ AI-powered nutrition assistant that analyzes meal photos and estimates food quan
 
 ## ✨ Features
 
-* 📸 Real-time meal photo capture
+* 📸 Meal photo capture and analysis
 * 🤖 Food recognition using Gemini AI
 * ⚖️ Estimated portion sizes (grams)
 * 🔥 Calorie estimation
@@ -40,44 +40,11 @@ AI-powered nutrition assistant that analyzes meal photos and estimates food quan
 1. User takes a photo of a meal.
 2. Image is sent to Gemini AI.
 3. AI identifies foods in the image.
-4. Estimated quantities and calories are calculated.
+4. Portion sizes and calories are estimated.
 5. Results are displayed instantly.
-
----
-
-## 🚀 Run Locally
-
-### Prerequisites
-
-* Node.js
-* Gemini API Key
-
-### Installation
-
-```bash
-npm install
-```
-
-Create a `.env.local` file:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
 
 ---
 
 ## 🎓 Academic Project
 
-Developed as part of a Computer Engineering course, focusing on Artificial Intelligence, Computer Vision, and Cloud Deployment.
-
----
-
-## 📌 Note
-
-This project is deployed and fully functional in a production environment.
+Developed as part of a Computer Engineering academic project focused on Artificial Intelligence, Computer Vision, and Cloud Deployment.
