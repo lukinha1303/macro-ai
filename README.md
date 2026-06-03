@@ -51,7 +51,11 @@ Developed as part of a Computer Engineering academic project focused on Artifici
 
 ---
 
+---
+
 ## 👤 Author
 
 **Lucas Alves**  
-Computer Engineering Student
+Computer Engineering Student  
+
+📅 2026
